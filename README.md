@@ -2,7 +2,7 @@
 <h3 align="center">A result-oriented software engineer and web developer from India</h3>
 <br>
 
-- 🔭 I’m currently working as: **Web Developer Executive a Brand Bazooka Advertising Pvt. Ltd.**
+- 🔭 I’m currently working as: **Web Developer Executive at Brand Bazooka Advertising Pvt. Ltd.**
 
 - 🌱 I’m currently learning: **React and Angular**
 
